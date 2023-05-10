@@ -23,4 +23,6 @@ function sum(name,...args){
     console.log(sum);
 }
 sum("Vanshika",20,30,40)
+//multiple values to one argument
+//used during decalaration of function
 
